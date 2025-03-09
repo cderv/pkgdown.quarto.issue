@@ -13,3 +13,4 @@ Suggests:
     knitr,
     quarto
 VignetteBuilder: quarto
+Config/Needs/website: quarto
