@@ -1,2 +1,8 @@
 ^pkgdown\.quarto\.issue\.Rproj$
 ^\.Rproj\.user$
+^vignettes/\.quarto$
+^vignettes/*_files$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
