@@ -11,8 +11,9 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Suggests: 
     knitr,
-    quarto
-VignetteBuilder: quarto
+    quarto,
+    rmarkdown
+VignetteBuilder: quarto, knitr
 Config/Needs/website: quarto
 Remotes: r-lib/pkgdown
 Imports: 
