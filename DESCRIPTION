@@ -15,3 +15,5 @@ Suggests:
 VignetteBuilder: quarto
 Config/Needs/website: quarto
 Remotes: r-lib/pkgdown
+Imports: 
+    pkgdown
