@@ -14,3 +14,4 @@ Suggests:
     quarto
 VignetteBuilder: quarto
 Config/Needs/website: quarto
+Remotes: r-lib/pkgdown
