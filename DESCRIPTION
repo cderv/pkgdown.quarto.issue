@@ -15,7 +15,7 @@ Suggests:
     testthat (>= 3.0.0)
 VignetteBuilder: quarto, knitr
 Config/Needs/website: quarto
-Remotes: r-lib/pkgdown
+Remotes: r-lib/pkgdown, quarto=quarto-dev/quarto-r@libpaths
 Imports: 
     pkgdown
 Config/testthat/edition: 3
