@@ -14,3 +14,7 @@ knitr:
 #| label: setup
 library(pkgdown.quarto.issue)
 ```
+
+```{r}
+testing123()
+```

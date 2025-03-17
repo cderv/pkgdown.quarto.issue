@@ -17,3 +17,7 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(pkgdown.quarto.issue)
 ```
+
+```{r}
+testing123()
+```
